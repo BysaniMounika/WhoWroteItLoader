@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Who Wrote It ?(loader)</string>
+    <string name="text_view_search">Enter (Full/Partial) name of the book u want to search</string>
+    <string name="edit_text_hint">Enter a Book title</string>
+    <string name="button_text">Search</string>
+</resources>
